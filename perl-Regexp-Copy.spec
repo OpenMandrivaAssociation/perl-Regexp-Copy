@@ -9,7 +9,6 @@ Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Regexp/%{real_name}-%{version}.tar.bz2
 BuildRequires:	perl-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Regexp::Copy allows you to copy the contents of one Regexp object
