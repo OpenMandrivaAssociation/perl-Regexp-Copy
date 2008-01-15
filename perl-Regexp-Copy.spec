@@ -3,7 +3,7 @@
 Summary:	Regexp::Copy - copy Regexp objects
 Name:		perl-%{real_name}
 Version:	0.06
-Release: %mkrel 3
+Release: %mkrel 4
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
