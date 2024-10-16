@@ -8,7 +8,7 @@ Release:	3
 Summary:	Regexp::Copy - copy Regexp objects
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Regexp/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
